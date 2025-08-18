@@ -1,27 +1,25 @@
-# 🌤 React Weather App
+🌦️ Weather App
 
-A simple weather application built with **React** and the **OpenWeatherMap API**.  
-Enter a city name and instantly get the **current temperature, weather conditions, and city details**.
+A modern Weather App built using React, Tailwind CSS, and HTML that allows users to check real-time weather data for any city, save favorite locations, and toggle between light/dark themes.
 
----
+Features
 
-## 🚀 Features
-- Search weather by **city name**
-- Displays:
-  - Current **temperature** (°C)
-  - **Weather description** (e.g., clear sky, rain)
-  - **City name**
-- Uses **OpenWeatherMap** for real-time data
-- Built with **React Hooks** (`useState`)
-- API key stored securely using `.env`
+🌆 Search weather for any city
 
----
+🌡️ View real-time temperature, humidity, and wind speed
 
-## 🛠 Tech Stack
-- **React.js**
-- **OpenWeatherMap API**
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3**
+🌙 Toggle light/dark theme
 
----
+⭐ Save favorite locations using localStorage
 
+🔗 Fetches weather data from OpenWeatherMap API
+
+📱 Responsive design using Tailwind CSS
+
+Tech Stack
+
+Frontend: React, HTML, Tailwind CSS
+
+API: OpenWeatherMap API
+
+Storage: localStorage for favorites
